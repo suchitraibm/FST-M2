@@ -1,0 +1,2 @@
+login_email,passwrd,zip,pers_email,age,gender,type,carMake,year,model,finInfo
+john.smith@gmail.com,john,581401,shetty.siri@gmail.com,34,Female,Excellent,Chrysler,2010,Aspen,Own
